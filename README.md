@@ -10,7 +10,7 @@
 
 -> Adicionar produtos no carrinho: Permitindo adicionar produtos que o usuario deseja no carrinho.
 
-R-> emover produtos do carrinho: remover um produto com qual o usuario nao deseja comprar
+-> emover produtos do carrinho: remover um produto com qual o usuario nao deseja comprar
 
 ## Tecnologias utilizadas 💻
 
